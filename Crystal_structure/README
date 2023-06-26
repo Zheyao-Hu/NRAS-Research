@@ -1,0 +1,11 @@
+# "NRAS_6zio_chainA_C118S_GDP_Mg.pdb"
+This crystal structure was downloaded from the PDB bank (https://www.rcsb.org), and PDB ID is "6zio"
+This crystal structure was used to construct the input file for molecular dynamics simulations of NRAS-WT and its mutants (NRAS-Q61R, NRAS-Q61K and NRAS-Q61L) in aqueous solution. Construct platform: "CHARMM-GUI Solution Builder" (https://charmm-gui.org/?doc=input/solution)
+
+# "Structure_A.pdb" and "Structure_B.pdb"
+Representative conformations (NRAS-Q61R) used in the ISSI drug design approach
+
+# "HM-516.pdb"
+The crystal structure of potential inhibitor “HM-516". Construct platform: "CHARMM-GUI Ligand Reader & Modeler" (https://charmm-gui.org/?doc=input/ligandrm)
+
+PS: "Structure_A.pdb" and "HM-516.pdb" was used to construct the input file for molecular dynamics simulations of "10 HM-516 + NRAS-Q61R" in aqueous solution. Construct platform: "CHARMM-GUI Multicomponent Assembler" (https://charmm-gui.org/?doc=input/multicomp)
