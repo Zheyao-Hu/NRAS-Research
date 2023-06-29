@@ -1,8 +1,3 @@
-# author : charlie
-# data : 20210803
-
-# /* <width/columns> <height/rows> <colors> <chars per pixel>*/
-
 import sys
 import matplotlib.pyplot as plt 
 
