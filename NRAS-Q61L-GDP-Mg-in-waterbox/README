@@ -1,0 +1,3 @@
+This folder contains the files (MD input files, parameter files, topology files etc) for molecular dynamics simulations of the NRAS-Q61L protein in the water box
+
+"NRAS_6zio_chainA_C118S_GDP_Mg.pdb"(You can find this file in the "Crystal_structure" folder) was used to construct the files for molecular dynamics simulations of NRAS-Q61L in aqueous solution. Construct platform: "CHARMM-GUI Solution Builder" (https://charmm-gui.org/?doc=input/solution)
